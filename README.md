@@ -1,4 +1,4 @@
-# VHDL Train Controller
+# Train Controller
 
 This project is a VHDL-based train controller that manages train direction and track alignment using motion sensors placed along segmented sections of the track. By detecting the train's position, the controller adjusts the track orientation (stright or diverted) enabling precise and responsive routing across the rail system. <br>
 
